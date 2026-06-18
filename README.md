@@ -27,12 +27,6 @@ ecommerce-sales-dashboard/
 ├── config/               # Configuration files
 └── README.md
 ⚙️ Installation & Setup
-1. Clone Repository
-git clone https://github.com/your-username/ecommerce-sales-dashboard.git
-2. Install Dependencies
-npm install
-3. Run Application
-npm start
 📊 Dashboard Insights
 Daily & Weekly Sales Performance
 Revenue vs Expense Analysis
