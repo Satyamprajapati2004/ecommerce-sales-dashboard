@@ -1,6 +1,6 @@
-# 🛒 E-commerce Sales Dashboard
+#  E-commerce Sales Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 The **E-commerce Sales Dashboard** is a data visualization and analytics solution designed to monitor, analyze, and visualize online sales performance.
 
