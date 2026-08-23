@@ -2,6 +2,8 @@
 
 ##  Project Overview
 
+![My Photo](dashboard.png)
+
 The **E-commerce Sales Dashboard** is a data visualization and analytics solution designed to monitor, analyze, and visualize online sales performance.
 
 The dashboard provides a consolidated view of important business metrics and helps users understand:
@@ -18,7 +20,7 @@ By presenting key business metrics through interactive visualizations, the dashb
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 The primary objectives of this project are:
 
@@ -33,7 +35,7 @@ The primary objectives of this project are:
 
 ---
 
-# 🏗️ Dashboard Architecture
+#  Dashboard Architecture
 
 ```text
                     E-commerce Data
@@ -71,7 +73,7 @@ The primary objectives of this project are:
 
 ---
 
-# 🛠️ Technology Stack
+#  Technology Stack
 
 Depending on the implementation, the project can use the following technologies:
 
@@ -95,9 +97,9 @@ Depending on the implementation, the project can use the following technologies:
 
 ---
 
-# 📊 Key Features
+#  Key Features
 
-## 📈 Interactive Sales Analytics
+##  Interactive Sales Analytics
 
 The dashboard provides interactive visualizations for monitoring overall sales performance.
 
@@ -105,7 +107,7 @@ Users can analyze important metrics and identify changes in business performance
 
 ---
 
-## 💰 Revenue & Profit Tracking
+##  Revenue & Profit Tracking
 
 The dashboard provides visibility into revenue and profitability.
 
@@ -121,7 +123,7 @@ These metrics help evaluate the financial performance of the e-commerce business
 
 ---
 
-## 📦 Order Management Overview
+##  Order Management Overview
 
 Order-related metrics provide an overview of purchasing activity.
 
@@ -135,7 +137,7 @@ The dashboard can be used to analyze:
 
 ---
 
-## 👥 Customer Behavior Analysis
+##  Customer Behavior Analysis
 
 Customer behavior analysis helps understand how users interact with the e-commerce business.
 
@@ -149,7 +151,7 @@ Potential analysis areas include:
 
 ---
 
-## 🏆 Top-Selling Products
+##  Top-Selling Products
 
 The dashboard identifies products that contribute significantly to overall sales.
 
@@ -163,7 +165,7 @@ This analysis helps businesses understand:
 
 ---
 
-## 🌍 Region-wise Performance
+##  Region-wise Performance
 
 Regional analysis provides a geographical view of business performance.
 
@@ -177,7 +179,7 @@ The dashboard can compare:
 
 ---
 
-# 📅 Sales Trend Analysis
+#  Sales Trend Analysis
 
 The dashboard provides time-based analysis to identify sales patterns.
 
@@ -199,7 +201,7 @@ Yearly analysis helps evaluate long-term business growth and performance.
 
 ---
 
-# 🔍 Dashboard Insights
+#  Dashboard Insights
 
 The dashboard focuses on the following major analytical areas:
 
@@ -225,7 +227,7 @@ Identify geographical regions that generate higher sales and revenue.
 
 ---
 
-# 📊 Key Performance Indicators
+#  Key Performance Indicators
 
 The dashboard can include important KPIs such as:
 
@@ -245,7 +247,7 @@ These KPIs provide a high-level summary of e-commerce business performance.
 
 ---
 
-# 📁 Project Structure
+#  Project Structure
 
 ```text
 ecommerce-sales-dashboard/
@@ -273,7 +275,7 @@ ecommerce-sales-dashboard/
 
 ---
 
-# ⚙️ Installation & Setup
+#  Installation & Setup
 
 ## Prerequisites
 
@@ -354,9 +356,10 @@ Update the database credentials and connection settings according to your local 
 
 ---
 
-# 🖼️ Dashboard Preview
+# Dashboard Preview
 
 Add screenshots of the dashboard to showcase the project visually.
+![My Photo](dashboard.png)
 
 Example:
 
@@ -381,7 +384,7 @@ Recommended screenshots include:
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 ```text
 Raw E-commerce Data
@@ -413,7 +416,7 @@ Business Insights
 
 ---
 
-# 💡 Business Value
+#  Business Value
 
 The E-commerce Sales Dashboard helps businesses convert sales data into actionable insights.
 
@@ -431,9 +434,9 @@ It can support:
 
 ---
 
-# 🚀 Future Enhancements
+# Future Enhancements
 
-## 🤖 AI-Based Sales Forecasting
+##  AI-Based Sales Forecasting
 
 Integrate machine learning models to forecast:
 
@@ -444,13 +447,13 @@ Integrate machine learning models to forecast:
 
 ---
 
-## 📑 Automated Reporting
+##  Automated Reporting
 
 Implement automated report generation and scheduled delivery for management and business teams.
 
 ---
 
-## 🔎 Advanced Filtering
+##  Advanced Filtering
 
 Add advanced filters and drill-down functionality for:
 
@@ -463,19 +466,19 @@ Add advanced filters and drill-down functionality for:
 
 ---
 
-## 📱 Mobile-Responsive UI
+##  Mobile-Responsive UI
 
 Improve the dashboard interface for smartphones and tablets to enable access across different devices.
 
 ---
 
-## ⚡ Real-Time Data Integration
+##  Real-Time Data Integration
 
 Connect the dashboard to real-time databases or APIs to provide continuously updated sales information.
 
 ---
 
-## 🧠 Advanced Customer Analytics
+##  Advanced Customer Analytics
 
 Future versions can include:
 
@@ -487,7 +490,7 @@ Future versions can include:
 
 ---
 
-# ⭐ Key Highlights
+#  Key Highlights
 
 * Interactive e-commerce sales dashboard
 * Revenue and profit monitoring
@@ -504,7 +507,7 @@ Future versions can include:
 
 ---
 
-# 📌 Project Information
+# Project Information
 
 **Project Name:** E-commerce Sales Dashboard
 
@@ -520,7 +523,7 @@ Future versions can include:
 
 ---
 
-# 👨‍💻 Skills Demonstrated
+#  Skills Demonstrated
 
 This project demonstrates practical knowledge of:
 
@@ -541,7 +544,7 @@ This project demonstrates practical knowledge of:
 
 ---
 
-# 🤝 Contribution Guidelines
+#  Contribution Guidelines
 
 Contributions are welcome.
 
@@ -554,7 +557,7 @@ Before making major changes:
 
 ---
 
-# 📄 License
+#  License
 
 This project is licensed under the **MIT License**.
 
